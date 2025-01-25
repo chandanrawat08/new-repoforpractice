@@ -6,8 +6,6 @@ public class Student {
 	private String name;
 	private String email;
 	
-	
-	
 	public Student(Integer sId, String name, String email) {
 		this.sId = sId;
 		this.name = name;
